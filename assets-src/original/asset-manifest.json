@@ -1,0 +1,98 @@
+[
+  {
+    "file": "heroes/tmt-desktop-hero.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB"
+  },
+  {
+    "file": "heroes/tmt-mobile-hero.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB"
+  },
+  {
+    "file": "motion/tmt-grocery-bag-cutout.png",
+    "width": 1145,
+    "height": 1374,
+    "mode": "RGBA"
+  },
+  {
+    "file": "departments/fresh-produce.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB"
+  },
+  {
+    "file": "departments/bakery.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB"
+  },
+  {
+    "file": "departments/pantry.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB"
+  },
+  {
+    "file": "departments/household-personal-care.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB"
+  },
+  {
+    "file": "products/orange-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "products/avocado-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "products/baguette-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "products/bananas-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "products/tomatoes-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "products/milk-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "products/cooking-oil-cutout.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA"
+  },
+  {
+    "file": "lifestyle/delivery-concept.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB"
+  },
+  {
+    "file": "social/fresh-finds-cover.png",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  }
+]
