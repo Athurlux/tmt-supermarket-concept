@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en-UG">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fresh finds. Full baskets. · TMT Supermarket concept</title>
+    <meta name="description" content="An independent website concept for TMT Supermarket, Kampala: browse a demo catalogue, build a basket and walk through delivery or click-and-collect checkout. Demo only — no payments or real orders." />
+    <meta name="theme-color" content="#153D28" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="TMT Supermarket — independent concept" />
+    <meta property="og:title" content="Fresh finds. Full baskets. — TMT Supermarket website concept" />
+    <meta property="og:description" content="An independent, interactive supermarket website concept for Kampala. Demo prices; no payments or real orders." />
+    <meta property="og:image" content="%VITE_SITE_URL%/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="TMT Supermarket grocery bag beside the headline Fresh finds. Full baskets., labelled independent concept" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,900&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>
+      // Hide hero layers until the entrance timeline takes over. If animation never
+      // starts (script error, slow chunk), the safety timer reveals everything.
+      if (!matchMedia('(prefers-reduced-motion: reduce)').matches && location.pathname === '/') {
+        document.documentElement.classList.add('hero-pending')
+        setTimeout(function () { document.documentElement.classList.remove('hero-pending') }, 2500)
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript><p style="padding:24px;font-family:sans-serif">This interactive supermarket concept needs JavaScript to browse products and use the basket.</p></noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
